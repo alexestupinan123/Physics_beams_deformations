@@ -13,7 +13,7 @@ from numpy import linspace
 from sympy import lambdify
 
 raiz = tk.Tk() 
-raiz.title("Caso No.2: viga simplemente apoyada con carga triangular") #Cambiar el nombre de la ventana 
+raiz.title("Caso No.2: viga simplemente apoyada con carga triangular") ##Cambiar el nombre de la ventana 
 raiz.geometry("820x680") #Configurar
 raiz.config(bg="#856ff8") #Cambiar color de fondo
 imagen=tk.PhotoImage(file="caso_no2.png")
