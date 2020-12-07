@@ -15,7 +15,7 @@ from sympy import lambdify
 import matplotlib.pyplot as mpl
 
 raiz = tk.Tk() 
-raiz.title("Caso No.3: viga simplemente apoyada con fuerza puntual F genérica") #Cambiar el nombre de la ventana 
+raiz.title("Caso No.3: viga simplemente apoyada con fuerza puntual F genérica") ##Cambiar el nombre de la ventana 
 raiz.geometry("820x680") #Configurar
 raiz.config(bg="#856ff8") #Cambiar color de fondo
 imagen=tk.PhotoImage(file="caso_no3.png")
